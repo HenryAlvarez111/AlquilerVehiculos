@@ -1,0 +1,13 @@
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.exe.config
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\bin\Debug\AlquilerVehiculos.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.AssemblyReference.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.Principal.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.Properties.Resources.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.View.CUCliente.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.View.CUContrato.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.View.CUVehiculo.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.GenerateResource.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\ExamenFinal\AlquilerVehiculos\AlquilerVehiculos\obj\Debug\AlquilerVehiculos.pdb

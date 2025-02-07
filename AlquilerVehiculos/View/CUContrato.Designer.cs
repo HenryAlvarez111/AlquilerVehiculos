@@ -73,6 +73,7 @@
             this.btnActualizar.TabIndex = 41;
             this.btnActualizar.Text = "Actualizar";
             this.btnActualizar.UseVisualStyleBackColor = true;
+            this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click);
             // 
             // btnEliminar
             // 
@@ -83,6 +84,7 @@
             this.btnEliminar.TabIndex = 40;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // dgvContenedor
             // 
@@ -100,6 +102,7 @@
             this.dgvContenedor.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvContenedor.Size = new System.Drawing.Size(578, 241);
             this.dgvContenedor.TabIndex = 39;
+            this.dgvContenedor.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvContenedor_CellClick);
             // 
             // btnGuardar
             // 
@@ -110,6 +113,7 @@
             this.btnGuardar.TabIndex = 38;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // cmbCliente
             // 
@@ -196,6 +200,7 @@
             this.Controls.Add(this.btnGuardar);
             this.Name = "CUContrato";
             this.Size = new System.Drawing.Size(578, 389);
+            this.Load += new System.EventHandler(this.CUContrato_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvContenedor)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

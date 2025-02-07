@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\examenfinal\\alquilervehiculos\\alquilervehiculos\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|solutionrelative:alquilervehiculos\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\examenfinal\\alquilervehiculos\\alquilervehiculos\\view\\cuvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|solutionrelative:alquilervehiculos\\view\\cuvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|solutionrelative:alquilervehiculos\\model\\dtocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\examenfinal\\alquilervehiculos\\alquilervehiculos\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|solutionrelative:alquilervehiculos\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\examenfinal\\alquilervehiculos\\alquilervehiculos\\view\\cucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AF8AA7EC-B523-4396-A9E2-A894559ABDD6}|AlquilerVehiculos\\AlquilerVehiculos.csproj|solutionrelative:alquilervehiculos\\view\\cucliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CUVehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\CUVehiculo.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\View\\CUVehiculo.cs",
@@ -85,19 +85,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\Principal.cs",
-              "RelativeDocumentMoniker": "AlquilerVehiculos\\View\\Principal.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\Principal.cs",
-              "RelativeToolTip": "AlquilerVehiculos\\View\\Principal.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAswC0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:07:49.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Principal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\Principal.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\View\\Principal.cs",
@@ -109,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dtoContrato.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Model\\dtoContrato.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Model\\dtoContrato.cs",
@@ -122,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "dtoVehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Model\\dtoVehiculo.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Model\\dtoVehiculo.cs",
@@ -135,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "clsVehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Controller\\clsVehiculo.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Controller\\clsVehiculo.cs",
@@ -148,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CUVehiculo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\CUVehiculo.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\View\\CUVehiculo.cs",
@@ -160,7 +147,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Config\\Conexion.cs",
+              "RelativeDocumentMoniker": "AlquilerVehiculos\\Config\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Config\\Conexion.cs*",
+              "RelativeToolTip": "AlquilerVehiculos\\Config\\Conexion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:14:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\Principal.cs",
+              "RelativeDocumentMoniker": "AlquilerVehiculos\\View\\Principal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\View\\Principal.cs",
+              "RelativeToolTip": "AlquilerVehiculos\\View\\Principal.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:07:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "clsCliente.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Controller\\clsCliente.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Controller\\clsCliente.cs",
@@ -173,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "clsContrato.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Controller\\clsContrato.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Controller\\clsContrato.cs",
@@ -186,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "dtoCliente.cs",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Model\\dtoCliente.cs",
               "RelativeDocumentMoniker": "AlquilerVehiculos\\Model\\dtoCliente.cs",
@@ -195,19 +208,6 @@
               "ViewState": "AgIAAGoAAAAAAAAAAAAAwIIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T19:21:28.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Config\\Conexion.cs",
-              "RelativeDocumentMoniker": "AlquilerVehiculos\\Config\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\ExamenFinal\\AlquilerVehiculos\\AlquilerVehiculos\\Config\\Conexion.cs",
-              "RelativeToolTip": "AlquilerVehiculos\\Config\\Conexion.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T19:14:53.763Z",
               "EditorCaption": ""
             },
             {
